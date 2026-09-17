@@ -1,0 +1,4 @@
+*.csv
+*.html
+triage-report-*
+_DailyHealthCheckWrapper.ps1
